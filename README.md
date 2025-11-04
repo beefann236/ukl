@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2025-11-04 140614" src="https://github.com/user-attachments/assets/30ececb2-797a-4628-ae22-55c9fa547053" />
 1 Program Menghitung Biaya Pengiriman
  Perangkat program:
 
